@@ -1,0 +1,16 @@
+Preparing frontend
+- create-vite frontend --template react
+- npm install
+
+start building the backend to set some routes or endpoints
+
+- install the python modules in the backend
+pip3 install Flask
+
+- CONHECIDO COMO ORM Object Relational Mapping
+- map the entries and sequels into a python Object
+pip3 install Flask-SQLAlchemy
+
+- To allow to have cross origin request
+- allow to avoid CORS error when requesting data from a diferent server, which is the frontend server
+pip3 install flask-cors

@@ -1,0 +1,10 @@
+criar no backend as pastar
+
+- main.py
+main routes and main endpoints
+
+- models.py
+all of our databases modules
+
+- config.py
+is gonna contain the main configuration of our application
